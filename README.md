@@ -66,9 +66,21 @@ Next.js · TypeScript · Tailwind + shadcn/ui · Supabase · Vercel · Stripe ·
   </picture>
 </p>
 
+### ⭐ Top repos
+
+| Repo | What it is | Lang | Traction |
+|---|---|:-:|---|
+| **[cx-core](https://github.com/cxlinux-ai/cx-core)** | CX Linux — AI-native Linux. Natural-language system administration for Ubuntu & Debian | Rust | <img src="https://img.shields.io/github/stars/cxlinux-ai/cx-core?style=flat-square&logo=github&label=stars&color=1f6feb" /> <img src="https://img.shields.io/github/forks/cxlinux-ai/cx-core?style=flat-square&logo=github&label=forks&color=3fb950" /> |
+| **[cx-distro](https://github.com/cxlinux-ai/cx-distro)** | CX Linux ISO builder — Ubuntu/Debian base with an embedded LLM | Shell | <img src="https://img.shields.io/github/stars/cxlinux-ai/cx-distro?style=flat-square&logo=github&label=stars&color=1f6feb" /> <img src="https://img.shields.io/github/forks/cxlinux-ai/cx-distro?style=flat-square&logo=github&label=forks&color=3fb950" /> |
+| **[awesome-voice-ai](https://github.com/ALLBOTSIO/awesome-voice-ai)** | The voice AI directory — 150+ tools across agents, TTS, STT, cloning, telephony, frameworks | Markdown | <img src="https://img.shields.io/github/stars/ALLBOTSIO/awesome-voice-ai?style=flat-square&logo=github&label=stars&color=1f6feb" /> <img src="https://img.shields.io/github/forks/ALLBOTSIO/awesome-voice-ai?style=flat-square&logo=github&label=forks&color=3fb950" /> |
+| **[awesome-agent-integrations](https://github.com/ALLBOTSIO/awesome-agent-integrations)** | Open dataset: 486 services an AI agent can connect to, classified by how each actually authenticates | JavaScript | <img src="https://img.shields.io/github/stars/ALLBOTSIO/awesome-agent-integrations?style=flat-square&logo=github&label=stars&color=1f6feb" /> <img src="https://img.shields.io/github/forks/ALLBOTSIO/awesome-agent-integrations?style=flat-square&logo=github&label=forks&color=3fb950" /> |
+| **[AgenID spec](https://github.com/AgenID-protocol/spec)** | Open identity, provenance, and machine-resolution standard for AI agents — spec, JSON schemas, test vectors | Python | <img src="https://img.shields.io/github/stars/AgenID-protocol/spec?style=flat-square&logo=github&label=stars&color=1f6feb" /> <img src="https://img.shields.io/github/forks/AgenID-protocol/spec?style=flat-square&logo=github&label=forks&color=3fb950" /> |
+| **[agenid](https://github.com/AgenID-protocol/agenid)** | AgenID reference implementation — `@agenid/core`: identifiers, RFC 8785 JCS, Ed25519 proof engine | TypeScript | <img src="https://img.shields.io/github/stars/AgenID-protocol/agenid?style=flat-square&logo=github&label=stars&color=1f6feb" /> <img src="https://img.shields.io/github/forks/AgenID-protocol/agenid?style=flat-square&logo=github&label=forks&color=3fb950" /> |
+
 ### 🤝 Work with us
 
-- **Builders:** pick up a `good first issue` in [cx-core](https://github.com/cxlinux-ai/cx-core/issues) or the [AgenID spec](https://github.com/AgenID-protocol)
+- **Builders:** pick up a `good first issue` in [cx-core](https://github.com/cxlinux-ai/cx-core/issues) or the [AgenID spec](https://github.com/AgenID-protocol/spec/issues)
+- **Curators:** add a tool to [awesome-voice-ai](https://github.com/ALLBOTSIO/awesome-voice-ai) or a service to [awesome-agent-integrations](https://github.com/ALLBOTSIO/awesome-agent-integrations) — PRs welcome
 - **Founders & operators:** we partner on AI ventures — start at [aiventureholdings.com](https://aiventureholdings.com)
 - **Everyone:** ⭐ the repos you find useful — it's how others find them too
 
